@@ -38,5 +38,5 @@ Rust compiler observes the code **at compile-time** and helps to [**prevent many
 
 ## Sections
 
-* [Hello Cargo](content/README.md)
+* [Hello Cargo](hello_cargo/README.md)
 
